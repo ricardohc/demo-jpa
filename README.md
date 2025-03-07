@@ -12,3 +12,14 @@ git push -u origin main
 git remote add origin https://github.com/ricardohc/demo-jpa.git
 git branch -M main
 git push -u origin main
+
+
+{
+"name": "Juan Perez",
+"salary": 666,
+"creationDate": "2025-03-07T01:34:00",
+"job": {
+"jobId": 2,
+"jobname": ""
+}
+}
